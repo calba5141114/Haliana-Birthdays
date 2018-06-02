@@ -1,0 +1,9 @@
+{
+  "name": "Haliana-Birthdays",
+  "version": "1.0.0",
+  "description": "A website for Haley and Arianna",
+  "main": "index.js",
+  "repository": "https://github.com/calba5141114/Haliana-Birthdays.git",
+  "author": "Carlos Alba and Haley Levesque ",
+  "license": "MIT"
+}
